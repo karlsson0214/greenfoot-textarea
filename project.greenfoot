@@ -1,0 +1,13 @@
+#Greenfoot properties
+#Fri Dec 15 12:40:19 CET 2017
+mainWindow.width=850
+class.MyWorld.superclass=greenfoot.World
+class.Lekstuga.image=house-03.png
+project.charset=UTF-8
+version=3.0.0
+world.lastInstantiated=MyWorld
+mainWindow.y=40
+mainWindow.x=40
+mainWindow.height=600
+class.Lekstuga.superclass=greenfoot.Actor
+class.TextArea.superclass=greenfoot.Actor
